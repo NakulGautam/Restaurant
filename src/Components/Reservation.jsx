@@ -26,7 +26,7 @@ const handleReservation = async (e)=>{
                     headers:{
                         "Content-type": "application/json"
                     },
-                    withCredentials: true
+                    // withCredentials: true
                 }
             
             )
